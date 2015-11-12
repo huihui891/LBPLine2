@@ -1,4 +1,3 @@
-
 #include "lbp.h"
 #include "fcm.h"
 #include "textureD.h"
@@ -7,8 +6,8 @@
 const int WSize = 24;
 const int WStep = 6;
 
-const int CLOW = 100;
-const int CHIG = 250;
+const int CLOW = 80;
+const int CHIG = 200;
 
 const int radius = 2;
 const int samplePoints = 8;
